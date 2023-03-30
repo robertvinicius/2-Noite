@@ -14,3 +14,19 @@ p {
 em strong {
     color: #FF0000;
 }
+.produtos li{
+    width:940px;
+    margin:0 auto;
+    padding:50px 0;
+}
+.produtos li{
+    display:inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    bo
+}
